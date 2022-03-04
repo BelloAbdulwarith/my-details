@@ -2,7 +2,7 @@ body{
   text-align: center;
 }
 P{
- Font-size: 20px;
+ Font-size: 5px;
 }
 h1{
   color: #42C2FF;
@@ -27,6 +27,7 @@ hr{
 }
 .intro1{
   width: auto;
+  Font-size: 5px;
 }
 .intro{
   width: 50%;
