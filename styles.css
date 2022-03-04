@@ -1,6 +1,9 @@
 body{
   text-align: center;
 }
+P{
+ Font-size: 20px;
+}
 h1{
   color: #42C2FF;
     font-family: sans-serif;
